@@ -5,10 +5,10 @@
 # Installation:
 #
 #   1. GitHub -> Settings -> Secrets -> New Secret
-#     1.1. Create CTOAI_TEAM_ID secret using your CTO.ai-issued Team Id.
-#     1.2. Create CTOAI_EVENTS_API_TOKEN secret using your CTO.ai-issued API Token.
+#     - Create CTOAI_TEAM_ID secret using your CTO.ai-issued Team Id.
+#     - Create CTOAI_EVENTS_API_TOKEN secret using your CTO.ai-issued API Token.
 #   2. Drop this file into your GitHub repository at your-repo/.github/workflows/ctoai-agent.yml
-#   
+#
 #       Done! Delivery & LifeCycle Metrics will now be available at your CTO.ai Dashboard.
 #
 
